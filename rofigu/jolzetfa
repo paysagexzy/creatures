@@ -15,4 +15,3 @@ void draw() {
   fill(0, 220, 120)
   ellipse(0,0,40,40)
 }
-/x
