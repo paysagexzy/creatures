@@ -53,6 +53,7 @@ void draw() {
 }
 
 void sunmoon(float course) {
+  course = course*10;
   PVector sun = new PVector(0, 0);
   PVector moon = new PVector(0, 0);
   PVector centre = new PVector(width/2, height/2);
