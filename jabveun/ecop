@@ -72,7 +72,7 @@ class Creature {
 
   void think() {
     if(this.speed.mag() < 0.1) {
-      this.speed = new JVector(random(-10,10),random(-10,10));
+      this.speed = new JVector(random(-50,10),random(-10,10));
 
       if((this.position.x < 150 &&  this.speed.x < 0)
         || (this.position.x > width - 150 && this.speed.x > 0)
