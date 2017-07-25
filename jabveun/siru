@@ -8,7 +8,7 @@ var height = externals.canvas.height;
 float duree = 5000;
 
 color[] journee = {
-  color(11, 74, 150), //NUIT
+  color(11, 74, 250), //NUIT
   color(245, 152, 59), //LEVER
   color(31, 167, 255), //JOUR
   color(255, 31, 102)  //COUCHER
