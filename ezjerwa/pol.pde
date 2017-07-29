@@ -87,7 +87,7 @@ class Creature {
     }
 
     this.position.add(this.speed);
-    this.speed.mult(0.15);
+    this.speed.mult(0.98);
     this.angle += 0.02 * this.speed.x;
   }
 
