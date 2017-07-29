@@ -6,7 +6,7 @@ class Creature {
   int rad;
   boolean once;
   ArrayList serpent = new ArrayList();
-  int maxSerpent = 10;
+  int maxSerpent = 20;
   float noiseSeed = 0.1;
 
   Creature() {
