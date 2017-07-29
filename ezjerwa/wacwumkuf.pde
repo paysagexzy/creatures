@@ -7,7 +7,7 @@ class Creature {
   boolean once;
   ArrayList serpent = new ArrayList();
   int maxSerpent = 25;
-  float noiseSeed = 0.1;
+  float noiseSeed = 0.2;
 
   Creature() {
     loc = new PVector(random(width), random(height));
