@@ -12,6 +12,6 @@ void draw() {
   fill(130, 130, 140)
   ellipse(0,0,170,70)
 
-  fill(0, 220, 120)
+  fill(0, 220, 220)
   ellipse(0,0,40,40)
 }
