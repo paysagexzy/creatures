@@ -1,7 +1,7 @@
 void draw() {
   background(0);
   translate(mouseX, mouseY);
-  fill(102);
+  fill(pink);
   stroke(255);
   strokeWeight(2);
   beginShape();
