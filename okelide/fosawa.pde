@@ -4,7 +4,7 @@ void draw() {
   translate(200 + 100 * Math.cos(millis()/800), 200 + 100 * Math.sin(millis() / 750))
 
   fill(200, 80, 80)
-  ellipse(0,0,120,120)
+  ellipse(0,0,120,110)
 
   fill(60, 60, 123)
   ellipse(0,0,100,100)
