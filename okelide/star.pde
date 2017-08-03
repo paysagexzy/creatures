@@ -1,5 +1,6 @@
 void draw() {
   background(0);
+  translate(mouseX, mouseY);
   fill(102);
   stroke(255);
   strokeWeight(2);
