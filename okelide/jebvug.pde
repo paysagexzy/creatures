@@ -715,7 +715,7 @@ void draw() {
 
 macreature
    .corps(atome)
-   .yeux(1)
+   .yeux(5)
    .nombredebras(insecte)
    .tailledebras(patte)
    .main(etoile)
