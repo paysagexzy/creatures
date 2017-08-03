@@ -717,7 +717,7 @@ macreature
    .corps(atome)
    .yeux(5)
    .nombredebras(insecte)
-   .tailledebras(patte)
+   .tailledebras(tentacule)
    .main(etoile)
    .couleurs(89)
       ;
