@@ -714,12 +714,13 @@ void draw() {
   background(0, 0, 100, 0);
 
 macreature
-   .corps(cristal)
-   .yeux(1)
-   .nombredebras(humain)
-   .tailledebras(antenne)
-   .main(losange)
-   .couleurs(14);
+   .corps(serpent)
+   .yeux(3)
+   .nombredebras(insecte)
+   .tailledebras(bosse)
+   .main(pyramide)
+   .couleurs(60)
+;
 
   loop++;
 }
