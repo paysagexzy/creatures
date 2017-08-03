@@ -10,8 +10,8 @@ void draw() {
   ellipse(0,0,90,100)
 
   fill(130, 130, 140)
-  ellipse(0,0,70,70)
+  ellipse(0,0,70,60)
 
   fill(0, 220, 120)
-  ellipse(0,0,40,40)
+  ellipse(0,0,30,40)
 }
