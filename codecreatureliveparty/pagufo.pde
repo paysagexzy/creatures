@@ -722,5 +722,5 @@ macreature
    .couleurs(60)
 ;
 
-  loop++;
+  loop = loop+10;
 }
