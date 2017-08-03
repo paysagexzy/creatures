@@ -7,7 +7,7 @@ void draw() {
   ellipse(0,0,120,110)
 
   fill(60, 60, 123)
-  ellipse(0,0,100,100)
+  ellipse(0,0,90,100)
 
   fill(130, 130, 140)
   ellipse(0,0,70,70)
